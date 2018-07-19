@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9276e07e-7d80-4604-9e92-3ef11118fe72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Super-Paper-Mario": {
+      "ver": "1.0.3",
+      "uuid": "2541cc54-2f00-4988-bc20-b6903b98a506",
+      "rawTextureUuid": "9276e07e-7d80-4604-9e92-3ef11118fe72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 32,
+      "trimY": 0,
+      "width": 192,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
